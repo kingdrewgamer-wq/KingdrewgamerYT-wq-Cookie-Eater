@@ -1,4 +1,4 @@
-# Cookie Banner Blocker
+# Cookie Eater
 
 A lightweight, local browser extension to automatically clean up your browsing experience by wiping out cookie consent popups and tracking prompts.
 
